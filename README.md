@@ -1,6 +1,6 @@
 # Hello, fellow wanderer! 👋
 
-![Banner](banner.jpg)
+![Banner]([banner.jpg](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg))
 
 Welcome to the realm of my digital adventures! I'm [Your Name], a curious soul on a never-ending quest to unlock the secrets of code and unleash my creativity upon the world. Join me on this extraordinary journey and let's embark on an epic tale of innovation and imagination! ✨
 
