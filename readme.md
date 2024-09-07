@@ -83,7 +83,7 @@ I’m always excited to connect with other developers and researchers. Let’s c
 - **GitHub**: [xxrafidxx](https://www.github.com/xxrafidxx)
 - **LinkedIn**: [rafid-mohammad-ahsan](https://www.linkedin.com/in/rafid-mohammad-ahsan-86503121a/)
 
-Feel free to explore my [portfolio](https://github.com/xxrafidxx/portfolio) and drop a star ⭐ if you like it!
+Feel free to explore my [portfolio](https://xxrafidxx.github.io/xxrafidxx/) and drop a star ⭐ if you like it!
 
 ---
 
