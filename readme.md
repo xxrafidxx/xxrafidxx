@@ -75,12 +75,6 @@ Here’s a snapshot of the technologies and tools I work with:
 
 ---
 
-## 📈 GitHub Activity Graph
-
-[![Rafid's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=xxrafidxx&theme=github-light&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 🌍 Get in Touch
 
 I’m always excited to connect with other developers and researchers. Let’s collaborate on interesting projects!
