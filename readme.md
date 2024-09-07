@@ -60,6 +60,25 @@ Here’s a snapshot of the technologies and tools I work with:
 
 ---
 
+## 📊 GitHub Stats
+
+![Rafid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xxrafidxx&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xxrafidxx&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=xxrafidxx&theme=onestar)
+
+---
+
+## 📈 GitHub Activity Graph
+
+[![Rafid's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xxrafidxx&theme=github-light&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 🌍 Get in Touch
 
 I’m always excited to connect with other developers and researchers. Let’s collaborate on interesting projects!
@@ -68,7 +87,7 @@ I’m always excited to connect with other developers and researchers. Let’s c
 - **GitHub**: [xxrafidxx](https://www.github.com/xxrafidxx)
 - **LinkedIn**: [rafid-mohammad-ahsan](https://www.linkedin.com/in/rafid-mohammad-ahsan-86503121a/)
 
-Feel free to explore my [portfolio](https://xxrafidxx.github.io/xxrafidxx/) and drop a star ⭐ if you like it!
+Feel free to explore my [portfolio](https://github.com/xxrafidxx/portfolio) and drop a star ⭐ if you like it!
 
 ---
 
