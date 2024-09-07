@@ -69,13 +69,15 @@ Here’s a snapshot of the technologies and tools I work with:
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=xxrafidxx&theme=onestar)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xxrafidxx&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
 ---
 
 ## 📈 GitHub Activity Graph
 
-[![Rafid's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xxrafidxx&theme=github-light&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rafid's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=xxrafidxx&theme=github-light&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
