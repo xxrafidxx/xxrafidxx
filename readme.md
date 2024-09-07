@@ -74,4 +74,4 @@ Feel free to explore my [portfolio](https://github.com/xxrafidxx/portfolio) and 
 
 ### 📄 Download My CV
 
-If you'd like a copy of my CV, [click here to download it!](/public/CV.pdf)
+If you'd like a copy of my CV, [click here to download it!](public/CV.pdf)
