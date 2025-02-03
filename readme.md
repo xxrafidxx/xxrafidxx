@@ -59,22 +59,6 @@ Here’s a snapshot of the technologies and tools I work with:
   Presented at the **International Conference On Science Technology And Management (ICSTM-21)**, 7th December 2021, Chittagong, Bangladesh.
 
 ---
-
-## 📊 GitHub Stats
-
-![Rafid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xxrafidxx&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xxrafidxx&layout=compact&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xxrafidxx&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 🌍 Get in Touch
 
 I’m always excited to connect with other developers and researchers. Let’s collaborate on interesting projects!
